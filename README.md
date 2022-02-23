@@ -23,7 +23,7 @@ public class Major{
 ***woosh***
 <br>
 
-<img src="https://media.giphy.com/media/DZQyphCCVVCCzTVaW1/giphy.gif" width = "600">
+<img src="https://media.giphy.com/media/DZQyphCCVVCCzTVaW1/giphy.gif" style='height: 100%; width: 100%; object-fit: contain'>
 
 <br>
 <h2><a href="mailto:kovacsbalinthunor53@gmail.com?subject=Hello%20%26%20Welcome&body=Let's%20talk%20about%20some%20bussiness!">If you are interested send me an e-mail. 😀</a>
