@@ -3,21 +3,14 @@
 <br>
 <br>
 
-```java
-public class Major{
-    public static void main(String[] args){
-        System.out.println("Informatics 1st year");
-        System.out.println("C group");
-
-        String[] hobbies = {
-            "Playing on the Guitar 🎸",
+```js
+basicInformation = "Informatics student, 1st year";
+console.log(basicInformation + "\nHobbies: ");
+hobbies = ["Playing on the Guitar 🎸",
             "Playing Games 🎮",
             "Learning Interesting Things About the World ✨",
-            "Reading & Writing Poems 📓" 
-        }
-        
-    }   
-}
+            "Reading & Writing Poems 📓"];
+hobbies.forEach(element => console.log("\t-"+element));
 ```
 
 <div>
