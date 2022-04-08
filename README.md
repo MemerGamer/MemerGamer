@@ -24,4 +24,4 @@ hobbies.forEach(element => console.log("\t-"+element));
 | <a href="https://github-readme-stats.vercel.app/api?username=MemerGamer&show_icons=true&theme=cobalt"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MemerGamer&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="Hunor's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MemerGamer&layout=compact&show_icons=true&theme=cobalt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MemerGamer&layout=compact&include_all_commits=true&theme=cobalt&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<p>NOTE: Priivate repositories are not included in the statistics. This does not indicate my skill level or language proficiency. </p>
+<p>NOTE: Private repositories are not included in the statistics. This does not indicate my skill level or language proficiency. </p>
