@@ -17,12 +17,11 @@ hobbies.forEach(element => console.log("\t-"+element));
     <div>
         <h2> <a href="mailto:kovacsbalinthunor53@gmail.com?subject=Hello%20%26%20Welcome&body=Let's%20talk%20about%20some%20bussiness!"> If you are interested send me an e-mail. 😀</a>
     </div>
-    <h2> <b> Whoosh *programming noises*
+                
 </div>
+<p>Stats: </p>
+            
+| <a href="https://github-readme-stats.vercel.app/api?username=MemerGamer&show_icons=true&theme=cobalt"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MemerGamer&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="Hunor's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MemerGamer&layout=compact&show_icons=true&theme=cobalt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MemerGamer&layout=compact&include_all_commits=true&theme=cobalt&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<br>
-
-<img src="https://media.giphy.com/media/DZQyphCCVVCCzTVaW1/giphy.gif" style='height: 100%; width: 100%; object-fit: contain'>
-
-<h2> <b>*server noises* Whoosh
-
+<p>NOTE: Priivate repositories are not included in the statistics. This does not indicate my skill level or language proficiency. </p>
