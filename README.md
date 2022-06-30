@@ -1,14 +1,9 @@
 # Hi I'm ***[Kovács Bálint - Hunor](https://kovacsbalinthunor.com)***
 <h2><em> Student at <a href="https://ms.sapientia.ro/en/">Sapientia Hungarian University of Transylvania </a><img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="50">
-
-<p align="left">
-    <img
-        src="https://komarev.com/ghpvc/?username=memergamer&color=blueviolet"
-        alt="memergamer"
-    />
-</p>
+<br>
 
 <h2>My Skills</h2>
+
 <p>Frontend:</p>
             
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,bootstrap,js)](https://skillicons.dev)            
@@ -17,7 +12,14 @@
             
 [![My Skills](https://skillicons.dev/icons?i=nodejs,c,cpp,cs,mysql,java,python)](https://skillicons.dev)            
             
-            
+
+<p align="left">
+    <img
+        src="https://komarev.com/ghpvc/?username=memergamer&color=blueviolet"
+        alt="memergamer"
+    />
+</p>
+
 ```js
 basicInformation = "Informatics student, 1st year";
 console.log(basicInformation + "\nHobbies: ");
