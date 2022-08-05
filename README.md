@@ -6,11 +6,11 @@
 
 <p>Frontend:</p>
             
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,bootstrap,js)](https://skillicons.dev)            
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,bootstrap,js,tailwind,laravel)](https://skillicons.dev)            
 
 <p>Backend:</p>
             
-[![My Skills](https://skillicons.dev/icons?i=nodejs,c,cpp,cs,mysql,java,python)](https://skillicons.dev)            
+[![My Skills](https://skillicons.dev/icons?i=nodejs,c,cpp,cs,mysql,java,python,php,laravel)](https://skillicons.dev)            
             
 
 <p align="left">
