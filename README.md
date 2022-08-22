@@ -11,7 +11,14 @@
 <p>Backend:</p>
             
 [![My Skills](https://skillicons.dev/icons?i=nodejs,c,cpp,cs,mysql,java,python,php,laravel)](https://skillicons.dev)            
-            
+          
+<p>Google Cloud Badges:</p>
+
+<div>
+    <a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359/badges/2557008">
+        <img src="https://cdn.qwiklabs.com/3lzfdnpwrMI1VXzUzD9l4CH9BwB4o59yK11xKdp2r08%3D" width="200px"/>
+    </a>
+</div>
 
 <p align="left">
     <img
