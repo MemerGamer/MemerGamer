@@ -10,7 +10,15 @@
 
 <p>Backend:</p>
             
-[![My Skills](https://skillicons.dev/icons?i=nodejs,c,cpp,cs,mysql,java,python,php,laravel)](https://skillicons.dev)            
+[![My Skills](https://skillicons.dev/icons?i=bash,nodejs,jquery,svelte,vite,c,cpp,cs,mysql,java,python,php,laravel)](https://skillicons.dev)      
+
+<p>Using:</p>
+            
+[![My Skills](https://skillicons.dev/icons?i=linux,vim,neovim)](https://skillicons.dev) 
+                   
+<p>Experimenting with:</p>
+            
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,cassandra,gcp,bsd)](https://skillicons.dev)  
           
 <a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359"><p>Google Cloud Badges:</p></a>
 
@@ -21,7 +29,7 @@
 </div>
 
 <p align="left">
-    <img
+    <im,g
         src="https://komarev.com/ghpvc/?username=memergamer&color=blueviolet"
         alt="memergamer"
     />
