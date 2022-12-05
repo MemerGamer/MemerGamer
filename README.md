@@ -18,7 +18,7 @@
                    
 <p>Experimenting with:</p>
             
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,cassandra,gcp,bsd)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=rust,docker,kubernetes,cassandra,gcp,bsd)](https://skillicons.dev)  
           
 <a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359"><p>Google Cloud Badges:</p></a>
 
