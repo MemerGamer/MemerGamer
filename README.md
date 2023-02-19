@@ -6,7 +6,7 @@
 
 <p>Frontend:</p>
             
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,jquery,svelte,vite, bootstrap,js,tailwind,laravel)](https://skillicons.dev)            
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,jquery,svelte,vite,bootstrap,js,tailwind,laravel)](https://skillicons.dev)            
 
 <p>Backend:</p>
             
