@@ -6,7 +6,7 @@
 
 <p>Frontend:</p>
             
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,jquery,svelte,vite,bootstrap,js,tailwind,laravel)](https://skillicons.dev)            
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,jquery,svelte,vite,bootstrap,js,ts,tailwind,laravel)](https://skillicons.dev)            
 
 <p>Backend:</p>
             
@@ -15,10 +15,15 @@
 <p>Using:</p>
             
 [![My Skills](https://skillicons.dev/icons?i=linux,vim,neovim)](https://skillicons.dev) 
-                   
-<p>Experimenting with:</p>
             
-[![My Skills](https://skillicons.dev/icons?i=rust,go,docker,kubernetes,cassandra,gcp,aws,bsd)](https://skillicons.dev)  
+            
+<p>Learning currently:</p>
+            
+[![My Skills](https://skillicons.dev/icons?i=docker,rust,v,zig,gcp,aws)](https://skillicons.dev)  
+            
+<p>Interested in learning:</p>
+            
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,cassandra,go,bsd)](https://skillicons.dev)  
           
 <a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359"><p>Google Cloud Badges:</p></a>
 
