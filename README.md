@@ -19,11 +19,11 @@
             
 <p>Learning currently:</p>
             
-[![My Skills](https://skillicons.dev/icons?i=docker,rust,v,zig,gcp,aws)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=docker,go,zig,rust,v,gcp,aws)](https://skillicons.dev)  
             
 <p>Interested in learning:</p>
             
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,cassandra,go,bsd)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,cassandra,ruby,bsd)](https://skillicons.dev)  
           
 <a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359"><p>Google Cloud Badges:</p></a>
 
