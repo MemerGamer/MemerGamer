@@ -20,11 +20,11 @@ Hi, I'm an Informatics student at Sapientia Hungarian University of Transylvania
 
 ### Currently learning
 
-[![My Skills](https://skillicons.dev/icons?i=docker,go,zig,rust,v,gcp,aws)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=docker,go,zig,rust,v,gcp,aws)](https://skillicons.dev)
 
 ### Interested in learning
 
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,cassandra,ruby,bsd)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,cassandra,ruby,bsd)](https://skillicons.dev)
 
 ### Some badges
 
@@ -48,11 +48,13 @@ Hi, I'm an Informatics student at Sapientia Hungarian University of Transylvania
 ```js
 basicInformation = "Informatics student, 1st year";
 console.log(basicInformation + "\nHobbies: ");
-hobbies = ["Playing on the Guitar 🎸",
-            "Playing Games 🎮",
-            "Learning Interesting Things About the World ✨",
-            "Reading & Writing Poems 📓"];
-hobbies.forEach(element => console.log("\t-"+element));
+hobbies = [
+  "Playing on the Guitar 🎸",
+  "Playing Games 🎮",
+  "Learning Interesting Things About the World ✨",
+  "Reading & Writing Poems 📓",
+];
+hobbies.forEach((element) => console.log("\t-" + element));
 ```
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&vCenter=true&random=false&width=720&lines=Contact+me)](https://git.io/typing-svg)
@@ -63,7 +65,7 @@ hobbies.forEach(element => console.log("\t-"+element));
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&vCenter=true&random=false&width=720&lines=Some+stats)](https://git.io/typing-svg)
 
-| <a href="https://github-readme-stats.vercel.app/api?username=MemerGamer&show_icons=true&theme=cobalt"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MemerGamer&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="Hunor's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MemerGamer&layout=compact&show_icons=true&theme=cobalt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MemerGamer&layout=compact&include_all_commits=true&theme=cobalt&hide_border=true" /></a> |
-| ------------- | ------------- |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MemerGamer&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Hunor's github stats" /> | <img align="center" src="https://streak-stats.demolab.com?user=Actulus&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" alt="streak graph"  /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MemerGamer&layout=compact&include_all_commits=true&theme=dracula&hide_border=true" /> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <p>NOTE: Private repositories are not included in the statistics. This does not indicate my skill level or language proficiency. </p>
