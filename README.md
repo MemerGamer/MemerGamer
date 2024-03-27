@@ -28,11 +28,18 @@ Hi, I'm an Informatics student at Sapientia Hungarian University of Transylvania
 
 ### Some badges
 
-<a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359"><p>Google Cloud Badges:</p></a>
-
 <div>
+    <ul>
+        <li><a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359"><p>Google Cloud Badges</p></a>
+        </li>
+        <li><a target="_blank" href="https://codeium.com/profile/memergamer/card.png"><p>Codeium Badges</p></a>
+        </li>
+    </ul>
     <a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359/badges/2557008">
         <img src="https://cdn.qwiklabs.com/3lzfdnpwrMI1VXzUzD9l4CH9BwB4o59yK11xKdp2r08%3D" width="200px"/>
+    </a>
+    <a target="_blank" href="https://codeium.com/profile/memergamer">
+        <img src="https://codeium.com/profile/memergamer/card.png" width="250px"/>
     </a>
 </div>
 
