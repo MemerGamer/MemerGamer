@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi my name is [Kovács Bálint-Hunor](https://kovacsbalinthunor.com), I'm an Informatics student at [Sapientia Hungarian University of Transylvania](https://ms.sapientia.ro/en/). In addition to my academic pursuits, I enjoy exploring various hobbies, including playing the guitar, gaming, learning about the world, and reading & writing poems. I also enjoy contributing to open source projects. :)
+Hi, my name is [Kovács Bálint-Hunor](https://kovacsbalinthunor.com), I'm an Informatics student at [Sapientia Hungarian University of Transylvania](https://ms.sapientia.ro/en/). In addition to my academic pursuits, I enjoy exploring various hobbies, including playing the guitar, gaming, learning about the world, and reading & writing poems. I also enjoy contributing to open source projects. :)
 
 ## Hobbies
 
@@ -86,3 +86,7 @@ hobbies.forEach((hobby) => console.log(`\t- ${hobby}`));
     <br/>
     <a href="https://kovacsbalinthunor.com"> Or check out my website 👀</a>
 </div>
+
+## Before you leave, here is a random cat
+
+![Random Cat](https://cataas.com/cat)
