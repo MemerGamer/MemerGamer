@@ -89,4 +89,6 @@ hobbies.forEach((hobby) => console.log(`\t- ${hobby}`));
 
 ## Before you leave, here is a random cat
 
-![Random Cat](https://cataas.com/cat)
+<div align="center">
+    <img src="https://cataas.com/cat" alt="Random Cat" />
+</div>
