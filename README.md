@@ -1,40 +1,48 @@
-# [Kovács Bálint-Hunor](https://kovacsbalinthunor.com) - Informatics Student at [Sapientia Hungarian University of Transylvania](https://ms.sapientia.ro/en/)<img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="50">
+# Welcome visitor:)! <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="50">
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&vCenter=true&random=false&width=720&lines=About+me)](https://git.io/typing-svg)
+## About me
 
-Hi, I'm an Informatics student at Sapientia Hungarian University of Transylvania. In addition to my academic pursuits, I enjoy exploring various hobbies, including playing the guitar, gaming, learning about the world, and reading & writing poems. I also enjoy contributing to open source projects. :)
+Hi my name is [Kovács Bálint-Hunor](https://kovacsbalinthunor.com), I'm an Informatics student at [Sapientia Hungarian University of Transylvania](https://ms.sapientia.ro/en/). In addition to my academic pursuits, I enjoy exploring various hobbies, including playing the guitar, gaming, learning about the world, and reading & writing poems. I also enjoy contributing to open source projects. :)
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&vCenter=true&random=false&width=720&lines=My+skills)](https://git.io/typing-svg)
+## Hobbies
 
-### Frontend
+```ts
+const basicInformation: string = "Informatics student, 1st year";
+console.log(`${basicInformation}\nHobbies:`);
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,jquery,svelte,vite,bootstrap,js,ts,tailwind,laravel)](https://skillicons.dev)
+const hobbies: string[] = [
+  "Playing on the Guitar 🎸",
+  "Playing Games 🎮",
+  "Learning Interesting Things About the World ✨",
+  "Reading & Writing Poems 📓",
+];
 
-### Backend
+hobbies.forEach((hobby) => console.log(`\t- ${hobby}`));
+```
 
-[![My Skills](https://skillicons.dev/icons?i=bash,nodejs,c,cpp,cs,mysql,java,python,php,laravel)](https://skillicons.dev)
+## Tools
 
-### Tools that I use on a daily basis
+| Category                   | Tools                                                                                                                                                                                                                                       |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Frontend**               | ![Vite](https://skillicons.dev/icons?i=vite) ![TypeScript](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)                                       |
+| **Backend**                | ![Bash](https://skillicons.dev/icons?i=bash) ![Express](https://skillicons.dev/icons?i=express) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Python](https://skillicons.dev/icons?i=python) ![Go](https://skillicons.dev/icons?i=go) |
+| **Databases**              | ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)                                                                                  |
+| **Operating Systems**      | ![Arch](https://skillicons.dev/icons?i=arch) ![Mint](https://skillicons.dev/icons?i=mint) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)                                                                                                  |
+| **IDEs/Editors**           | ![Vim](https://skillicons.dev/icons?i=vim) ![Neovim](https://skillicons.dev/icons?i=neovim) ![VS Code](https://skillicons.dev/icons?i=vscode)                                                                                               |
+| **Currently Learning**     | ![Docker](https://skillicons.dev/icons?i=docker) ![Go](https://skillicons.dev/icons?i=go) ![Zig](https://skillicons.dev/icons?i=zig) ![Rust](https://skillicons.dev/icons?i=rust) ![GCP](https://skillicons.dev/icons?i=gcp)                |
+| **Interested in Learning** | ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![BSD](https://skillicons.dev/icons?i=bsd) ![GCP](https://skillicons.dev/icons?i=gcp)                                                                                              |
 
-[![My Skills](https://skillicons.dev/icons?i=linux,vim,neovim)](https://skillicons.dev)
-
-### Currently learning
-
-[![My Skills](https://skillicons.dev/icons?i=docker,go,zig,rust,v,gcp,aws)](https://skillicons.dev)
-
-### Interested in learning
-
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,cassandra,ruby,bsd)](https://skillicons.dev)
-
-### Some badges
+## Badges
 
 <div>
+    <h3>Links</h3>
     <ul>
         <li><a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359"><p>Google Cloud Badges</p></a>
         </li>
         <li><a target="_blank" href="https://codeium.com/profile/memergamer/card.png"><p>Codeium Badges</p></a>
         </li>
     </ul>
+    <h3>Overview</h3>
     <a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359/badges/2557008">
         <img src="https://cdn.qwiklabs.com/3lzfdnpwrMI1VXzUzD9l4CH9BwB4o59yK11xKdp2r08%3D" width="200px"/>
     </a>
@@ -50,29 +58,29 @@ Hi, I'm an Informatics student at Sapientia Hungarian University of Transylvania
     />
 </p>
 
-## Try running this in a JavaScript environment:)
+## GitHub Stats
 
-```js
-basicInformation = "Informatics student, 1st year";
-console.log(basicInformation + "\nHobbies: ");
-hobbies = [
-  "Playing on the Guitar 🎸",
-  "Playing Games 🎮",
-  "Learning Interesting Things About the World ✨",
-  "Reading & Writing Poems 📓",
-];
-hobbies.forEach((element) => console.log("\t-" + element));
-```
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=memergamer&color=blueviolet" alt="Profile views" />
+</p>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&vCenter=true&random=false&width=720&lines=Contact+me)](https://git.io/typing-svg)
+| ![Hunor's GitHub stats](https://github-readme-stats.vercel.app/api?username=MemerGamer&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true) | ![Streak stats](https://streak-stats.demolab.com?user=MemerGamer&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MemerGamer&layout=compact&include_all_commits=true&theme=dracula&hide_border=true) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=memergamer&theme=dracula&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=memergamer&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributor stats" />
+</p>
+
+<p>NOTE: Private repositories are not included in the statistics. This does not indicate my skill level or language proficiency. </p>
+
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&vCenter=true&random=false&width=720&lines=Contact+me)](https://git.io/typing-svg)
 
 <div>
     <a href="mailto:kovacsbalinthunor53@gmail.com?subject=Hello%20%26%20Welcome&body=Let's%20talk%20about%20some%20bussiness!"> If you are interested send me an e-mail. 😀</a>
+    <br/>
+    <a href="https://kovacsbalinthunor.com"> Or check out my website 👀</a>
 </div>
-
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&vCenter=true&random=false&width=720&lines=Some+stats)](https://git.io/typing-svg)
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MemerGamer&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Hunor's github stats" /> | <img align="center" src="https://streak-stats.demolab.com?user=MemerGamer&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" alt="streak graph"  /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MemerGamer&layout=compact&include_all_commits=true&theme=dracula&hide_border=true" /> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<p>NOTE: Private repositories are not included in the statistics. This does not indicate my skill level or language proficiency. </p>
