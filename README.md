@@ -20,7 +20,13 @@ const hobbies: string[] = [
 hobbies.forEach((hobby) => console.log(`\t- ${hobby}`));
 ```
 
-## Tools
+## Tools and Badges
+
+<table>
+<tr>
+<td>
+
+### Tools
 
 | Category                   | Tools                                                                                                                                                                                                                                       |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -32,31 +38,27 @@ hobbies.forEach((hobby) => console.log(`\t- ${hobby}`));
 | **Currently Learning**     | ![Docker](https://skillicons.dev/icons?i=docker) ![Go](https://skillicons.dev/icons?i=go) ![Zig](https://skillicons.dev/icons?i=zig) ![Rust](https://skillicons.dev/icons?i=rust) ![GCP](https://skillicons.dev/icons?i=gcp)                |
 | **Interested in Learning** | ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![BSD](https://skillicons.dev/icons?i=bsd) ![GCP](https://skillicons.dev/icons?i=gcp)                                                                                              |
 
-## Badges
+</td>
+<td>
 
-<div>
-    <h3>Links</h3>
-    <ul>
-        <li><a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359"><p>Google Cloud Badges</p></a>
-        </li>
-        <li><a target="_blank" href="https://codeium.com/profile/memergamer/card.png"><p>Codeium Badges</p></a>
-        </li>
-    </ul>
-    <h3>Overview</h3>
-    <a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359/badges/2557008">
-        <img src="https://cdn.qwiklabs.com/3lzfdnpwrMI1VXzUzD9l4CH9BwB4o59yK11xKdp2r08%3D" width="200px"/>
-    </a>
-    <a target="_blank" href="https://codeium.com/profile/memergamer">
-        <img src="https://codeium.com/profile/memergamer/card.png" width="250px"/>
-    </a>
-</div>
+### Badges
 
-<p align="left">
-    <im,g
-        src="https://komarev.com/ghpvc/?username=memergamer&color=blueviolet"
-        alt="memergamer"
-    />
-</p>
+<h3>Links</h3>
+<ul>
+    <li><a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359"><p>Google Cloud Badges</p></a></li>
+    <li><a target="_blank" href="https://codeium.com/profile/memergamer/card.png"><p>Codeium Badges</p></a></li>
+</ul>
+<h3>Overview</h3>
+<a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359/badges/2557008">
+    <img src="https://cdn.qwiklabs.com/3lzfdnpwrMI1VXzUzD9l4CH9BwB4o59yK11xKdp2r08%3D" width="200px" />
+</a>
+<a target="_blank" href="https://codeium.com/profile/memergamer">
+    <img src="https://codeium.com/profile/memergamer/card.png" width="250px" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ## GitHub Stats
 
