@@ -7,7 +7,7 @@ Hi, my name is [Kovács Bálint-Hunor](https://kovacsbalinthunor.com), I'm a Sof
 ## Hobbies
 
 ```ts
-const basicInformation: string = "Informatics student, 1st year";
+const basicInformation: string = "Software Engineering Student,";
 console.log(`${basicInformation}\nHobbies:`);
 
 const hobbies: string[] = [
