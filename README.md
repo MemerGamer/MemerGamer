@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi, my name is [Kovács Bálint-Hunor](https://kovacsbalinthunor.com), I'm an Informatics student at [Sapientia Hungarian University of Transylvania](https://ms.sapientia.ro/en/). In addition to my academic pursuits, I enjoy exploring various hobbies, including playing the guitar, gaming, learning about the world, and reading & writing poems. I also enjoy contributing to open source projects. :)
+Hi, my name is [Kovács Bálint-Hunor](https://kovacsbalinthunor.com), I'm a Software Engineering Student (MSc) at [Sapientia Hungarian University of Transylvania](https://ms.sapientia.ro/en/). In addition to my academic pursuits, I enjoy exploring various hobbies, including playing the guitar, gaming, learning about the world, and reading & writing poems. I also enjoy contributing to open source projects. :)
 
 ## Hobbies
 
