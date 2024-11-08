@@ -40,26 +40,23 @@ async def get_profile():
 
 ### Tools
 
-| Category                   | Tools                                                                                                                                                                                                                                       |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Frontend related**       | ![Vite](https://skillicons.dev/icons?i=vite) ![TypeScript](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)                                       |
-| **Backend related**        | ![Python](https://skillicons.dev/icons?i=python) ![Go](https://skillicons.dev/icons?i=go)![Bash](https://skillicons.dev/icons?i=bash) ![Node.js](https://skillicons.dev/icons?i=nodejs)                                                     |
-| **Databases**              | ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)                                                                                  |
-| **Operating Systems**      | ![Arch](https://skillicons.dev/icons?i=arch) ![Mint](https://skillicons.dev/icons?i=mint) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)                                                                                                  |
-| **IDEs/Editors**           | ![Vim](https://skillicons.dev/icons?i=vim) ![Neovim](https://skillicons.dev/icons?i=neovim) ![VS Code](https://skillicons.dev/icons?i=vscode)                                                                                               |
-| **Currently Learning**     | ![Docker](https://skillicons.dev/icons?i=docker) ![Go](https://skillicons.dev/icons?i=go) ![Zig](https://skillicons.dev/icons?i=zig) ![Rust](https://skillicons.dev/icons?i=rust) ![GCP](https://skillicons.dev/icons?i=gcp)                |
-| **Interested in Learning** | ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![BSD](https://skillicons.dev/icons?i=bsd) ![GCP](https://skillicons.dev/icons?i=gcp)                                                                                              |
+| Category                   | Tools                                                                                                                                                                                                                        |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Frontend related**       | ![Vite](https://skillicons.dev/icons?i=vite) ![TypeScript](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)                        |
+| **Backend related**        | ![Python](https://skillicons.dev/icons?i=python) ![Go](https://skillicons.dev/icons?i=go)![Bash](https://skillicons.dev/icons?i=bash) ![Node.js](https://skillicons.dev/icons?i=nodejs)                                      |
+| **Databases**              | ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)                                                                   |
+| **Operating Systems**      | ![Arch](https://skillicons.dev/icons?i=arch) ![Mint](https://skillicons.dev/icons?i=mint) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)                                                                                   |
+| **IDEs/Editors**           | ![Vim](https://skillicons.dev/icons?i=vim) ![Neovim](https://skillicons.dev/icons?i=neovim) ![VS Code](https://skillicons.dev/icons?i=vscode)                                                                                |
+| **Currently Learning**     | ![Docker](https://skillicons.dev/icons?i=docker) ![Go](https://skillicons.dev/icons?i=go) ![Zig](https://skillicons.dev/icons?i=zig) ![Rust](https://skillicons.dev/icons?i=rust) ![GCP](https://skillicons.dev/icons?i=gcp) |
+| **Interested in Learning** | ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![BSD](https://skillicons.dev/icons?i=bsd) ![GCP](https://skillicons.dev/icons?i=gcp)                                                                               |
 
 </td>
 <td>
-### Badges
-<h3>Links</h3>
+<h3>Badges</h3>
 <ul>
     <li><a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359"><p>Google Cloud Badges</p></a></li>
     <li><a target="_blank" href="https://codeium.com/profile/memergamer/card.png"><p>Codeium Badges</p></a></li>
 </ul>
-<h3>Overview</h3>
-
 <a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359/badges/9695900">
     <img src="https://cdn.qwiklabs.com/aO%2FQtiOBsw0z1zBaUvhw9Yh8N3ghk1lxwVYf5K1MNPU%3D" width="200px" />
 </a>
