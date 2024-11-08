@@ -6,18 +6,30 @@ Hi, my name is [Kovács Bálint-Hunor](https://kovacsbalinthunor.com), I'm a Sof
 
 ## Hobbies
 
-```ts
-const basicInformation: string = "Software Engineering Student,";
-console.log(`${basicInformation}\nHobbies:`);
+```python
+from fastapi import FastAPI
+from pydantic import BaseModel
 
-const hobbies: string[] = [
-  "Playing on the Guitar 🎸",
-  "Playing Games 🎮",
-  "Learning Interesting Things About the World ✨",
-  "Reading & Writing Poems 📓",
-];
+app = FastAPI()
 
-hobbies.forEach((hobby) => console.log(`\t- ${hobby}`));
+class UserProfile(BaseModel):
+    name: str
+    role: str
+    hobbies: list[str]
+
+@app.get("/profile", response_model=UserProfile)
+async def get_profile():
+    profile = UserProfile(
+        name="Kovács Bálint-Hunor",
+        role="Software Engineering Student",
+        hobbies=[
+            "Playing the Guitar 🎸",
+            "Playing Games 🎮",
+            "Learning Interesting Things About the World ✨",
+            "Reading & Writing Poems 📓"
+        ]
+    )
+    return profile
 ```
 
 ## Tools and Badges
