@@ -42,8 +42,8 @@ async def get_profile():
 
 | Category                   | Tools                                                                                                                                                                                                                                       |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Frontend**               | ![Vite](https://skillicons.dev/icons?i=vite) ![TypeScript](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)                                       |
-| **Backend**                | ![Bash](https://skillicons.dev/icons?i=bash) ![Express](https://skillicons.dev/icons?i=express) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Python](https://skillicons.dev/icons?i=python) ![Go](https://skillicons.dev/icons?i=go) |
+| **Frontend related**       | ![Vite](https://skillicons.dev/icons?i=vite) ![TypeScript](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)                                       |
+| **Backend related**        | ![Python](https://skillicons.dev/icons?i=python) ![Go](https://skillicons.dev/icons?i=go)![Bash](https://skillicons.dev/icons?i=bash) ![Node.js](https://skillicons.dev/icons?i=nodejs)                                                     |
 | **Databases**              | ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)                                                                                  |
 | **Operating Systems**      | ![Arch](https://skillicons.dev/icons?i=arch) ![Mint](https://skillicons.dev/icons?i=mint) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)                                                                                                  |
 | **IDEs/Editors**           | ![Vim](https://skillicons.dev/icons?i=vim) ![Neovim](https://skillicons.dev/icons?i=neovim) ![VS Code](https://skillicons.dev/icons?i=vscode)                                                                                               |
@@ -52,9 +52,7 @@ async def get_profile():
 
 </td>
 <td>
-
 ### Badges
-
 <h3>Links</h3>
 <ul>
     <li><a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359"><p>Google Cloud Badges</p></a></li>
@@ -73,7 +71,6 @@ async def get_profile():
 <a target="_blank" href="https://codeium.com/profile/memergamer">
     <img src="https://codeium.com/profile/memergamer/card.png" width="200px" />
 </a>
-
 </td>
 </tr>
 </table>
