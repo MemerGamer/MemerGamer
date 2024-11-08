@@ -100,7 +100,7 @@ async def get_profile():
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&vCenter=true&random=false&width=720&lines=Contact+me)](https://git.io/typing-svg)
 
 <div>
-    <a href="mailto:kovacsbalinthunor53@gmail.com?subject=Hello%20%26%20Welcome&body=Let's%20talk%20about%20some%20bussiness!"> If you are interested send me an e-mail. 😀</a>
+    <a href="mailto:kovacsbalinthunor13@gmail.com?subject=Hello%20%26%20Welcome&body=Let's%20talk%20about%20some%20bussiness!"> If you are interested send me an e-mail. 😀</a>
     <br/>
     <a href="https://kovacsbalinthunor.com"> Or check out my website 👀</a>
 </div>
