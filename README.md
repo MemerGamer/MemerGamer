@@ -61,6 +61,10 @@ async def get_profile():
     <img src="https://cdn.qwiklabs.com/aO%2FQtiOBsw0z1zBaUvhw9Yh8N3ghk1lxwVYf5K1MNPU%3D" width="200px" />
 </a>
 
+<a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359/badges/13265273">
+    <img src="https://cdn.qwiklabs.com/%2FtTuLG7JDJIBJQv5NcPAhKHQj5968aKafxSg0fCTiXY%3D" width="200px" />
+</a>
+
 <a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359/badges/2557008">
     <img src="https://cdn.qwiklabs.com/3lzfdnpwrMI1VXzUzD9l4CH9BwB4o59yK11xKdp2r08%3D" width="200px" />
 </a>
