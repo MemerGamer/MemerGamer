@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi, my name is [Kovács Bálint-Hunor](https://kovacsbalinthunor.com), I'm a Software Engineering Student (MSc) at [Sapientia Hungarian University of Transylvania](https://ms.sapientia.ro/en/). In addition to my academic pursuits, I enjoy exploring various hobbies, including playing the guitar, gaming, learning about the world, and reading & writing poems. I also enjoy contributing to open source projects. :)
+Hi, my name is Kovács Bálint-Hunor, I'm a Software Engineering Student (MSc) at [Sapientia Hungarian University of Transylvania](https://ms.sapientia.ro/en/). In addition to my academic pursuits, I enjoy exploring various hobbies, including playing the guitar, gaming, learning about the world, and reading & writing poems. I also enjoy contributing to open source projects. :)
 
 ## Want to find out more?
 
@@ -17,51 +17,112 @@ It's not just a portfolio - it's an experience.
 curl https://www.kovacsbalinthunor.com/sh
 ```
 
-## Tools and Badges
+<div>
+    If you still have some questions, send me an  <a href="mailto:kovacsbalinthunor13@gmail.com?subject=Hello%20%26%20Welcome&body=Let's%20talk%20about%20some%20bussiness!"> e-mail 😀</a>
+</div>
 
-<table>
-<tr>
-<td>
+## Skills & Achievements
 
-### Tools 🛠️
+### 🛠️ Tech Stack
 
-| Category                   | Tools                                                                                                                                                                                                                        |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Frontend related**       | ![Vite](https://skillicons.dev/icons?i=vite) ![TypeScript](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)                        |
-| **Backend related**        | ![Python](https://skillicons.dev/icons?i=python) ![Go](https://skillicons.dev/icons?i=go)![Bash](https://skillicons.dev/icons?i=bash) ![Node.js](https://skillicons.dev/icons?i=nodejs)                                      |
-| **Databases**              | ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)                                                                   |
-| **Operating Systems**      | ![Arch](https://skillicons.dev/icons?i=arch) ![Mint](https://skillicons.dev/icons?i=mint) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)                                                                                   |
-| **IDEs/Editors**           | ![Vim](https://skillicons.dev/icons?i=vim) ![Neovim](https://skillicons.dev/icons?i=neovim) ![VS Code](https://skillicons.dev/icons?i=vscode)                                                                                |
-| **Currently Learning**     | ![Docker](https://skillicons.dev/icons?i=docker) ![Go](https://skillicons.dev/icons?i=go) ![Zig](https://skillicons.dev/icons?i=zig) ![Rust](https://skillicons.dev/icons?i=rust) ![GCP](https://skillicons.dev/icons?i=gcp) |
-| **Interested in Learning** | ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![BSD](https://skillicons.dev/icons?i=bsd) ![GCP](https://skillicons.dev/icons?i=gcp)                                                                               |
+<div>
+  <table>
+    <tr>
+      <th align="left">Category</th>
+      <th align="left">Tools</th>
+    </tr>
+    <tr>
+      <td><b>Frontend</b></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+        <img src="https://skillicons.dev/icons?i=react" alt="React" />
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Backend</b></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+        <img src="https://skillicons.dev/icons?i=go" alt="Go" />
+        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Databases</b></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Operating Systems</b></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=arch" alt="Arch" />
+        <img src="https://skillicons.dev/icons?i=mint" alt="Mint" />
+        <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Development Environment</b></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=vim" alt="Vim" />
+        <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" />
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Currently Learning</b></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+        <img src="https://skillicons.dev/icons?i=go" alt="Go" />
+        <img src="https://skillicons.dev/icons?i=zig" alt="Zig" />
+        <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
+        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Interested In Learning</b></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
+        <img src="https://skillicons.dev/icons?i=bsd" alt="BSD" />
+        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-</td>
-<td>
-<h3>Badges</h3>
-<ul>
-    <li><a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359"><p>Google Cloud Badges</p></a></li>
-    <li><a target="_blank" href="https://codeium.com/profile/memergamer/card.png"><p>Codeium Badges</p></a></li>
-</ul>
-<a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359/badges/9695900">
-    <img src="https://cdn.qwiklabs.com/aO%2FQtiOBsw0z1zBaUvhw9Yh8N3ghk1lxwVYf5K1MNPU%3D" width="200px" />
-</a>
+### 🏆 Certifications & Badges
 
-<a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359/badges/13265273">
-    <img src="https://cdn.qwiklabs.com/%2FtTuLG7JDJIBJQv5NcPAhKHQj5968aKafxSg0fCTiXY%3D" width="200px" />
-</a>
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: center; margin-bottom: 20px;">
+  <a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359" style="margin-right: 20px; text-decoration: none; font-weight: bold; color: #4285F4;">
+    <p>View All Google Cloud Badges →</p>
+  </a>
+  <a target="_blank" href="https://codeium.com/profile/memergamer" style="text-decoration: none; font-weight: bold; color: #8A2BE2;">
+    <p>View Codeium Profile →</p>
+  </a>
+</div>
 
-<a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359/badges/2557008">
-    <img src="https://cdn.qwiklabs.com/3lzfdnpwrMI1VXzUzD9l4CH9BwB4o59yK11xKdp2r08%3D" width="200px" />
-</a>
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+  <a href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359/badges/9695900" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.qwiklabs.com/aO%2FQtiOBsw0z1zBaUvhw9Yh8N3ghk1lxwVYf5K1MNPU%3D" style="height: 150px; width: auto; max-width: 200px;" alt="Google Cloud Badge" />
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359/badges/13265273" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.qwiklabs.com/%2FtTuLG7JDJIBJQv5NcPAhKHQj5968aKafxSg0fCTiXY%3D" style="height: 150px; width: auto; max-width: 200px;" alt="Google Cloud Badge" />
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359/badges/2557008" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.qwiklabs.com/3lzfdnpwrMI1VXzUzD9l4CH9BwB4o59yK11xKdp2r08%3D" style="height: 150px; width: auto; max-width: 200px;" alt="Google Cloud Badge" />
+  </a>
+  <a href="https://codeium.com/profile/memergamer" target="_blank" style="text-decoration: none;">
+    <img src="https://codeium.com/profile/memergamer/card.png" style="height: 150px; width: auto; max-width: 200px;" alt="Codeium Profile" />
+  </a>
+</div>
 
-<a target="_blank" href="https://codeium.com/profile/memergamer">
-    <img src="https://codeium.com/profile/memergamer/card.png" width="200px" />
-</a>
-</td>
-</tr>
-</table>
 
-## GitHub Stats
+
+## 📈 GitHub Stats
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=memergamer&color=blueviolet" alt="Profile views" />
@@ -80,15 +141,7 @@ curl https://www.kovacsbalinthunor.com/sh
 
 <p>NOTE: Private repositories are not included in the statistics. This does not indicate my skill level or language proficiency. </p>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&vCenter=true&random=false&width=720&lines=Contact+me)](https://git.io/typing-svg)
-
-<div>
-    <a href="mailto:kovacsbalinthunor13@gmail.com?subject=Hello%20%26%20Welcome&body=Let's%20talk%20about%20some%20bussiness!"> If you are interested send me an e-mail. 😀</a>
-    <br/>
-    <a href="https://kovacsbalinthunor.com"> Or check out my website 👀</a>
-</div>
-
-## Before you leave, here is a random cat
+## 🐱 Before you leave, here is a random cat
 
 <div align="center">
     <img src="https://c.tenor.com/KmPFMGQ07-4AAAAd/tenor.gif" alt="Random Cat" />
