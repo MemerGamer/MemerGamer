@@ -4,32 +4,17 @@
 
 Hi, my name is [Kovács Bálint-Hunor](https://kovacsbalinthunor.com), I'm a Software Engineering Student (MSc) at [Sapientia Hungarian University of Transylvania](https://ms.sapientia.ro/en/). In addition to my academic pursuits, I enjoy exploring various hobbies, including playing the guitar, gaming, learning about the world, and reading & writing poems. I also enjoy contributing to open source projects. :)
 
-## Hobbies
+## Want to find out more?
 
-```python
-from fastapi import FastAPI
-from pydantic import BaseModel
+### More beginner friendly
+Open [https://www.kovacsbalinthunor.com](https://www.kovacsbalinthunor.com) in your preferred browser
 
-app = FastAPI()
+### Advanced solution
+Try the command above in your terminal.
+It's not just a portfolio - it's an experience.
 
-class UserProfile(BaseModel):
-    name: str
-    role: str
-    hobbies: list[str]
-
-@app.get("/profile", response_model=UserProfile)
-async def get_profile():
-    profile = UserProfile(
-        name="Kovács Bálint-Hunor",
-        role="Software Engineering Student",
-        hobbies=[
-            "Playing the Guitar 🎸",
-            "Playing Games 🎮",
-            "Learning Interesting Things About the World ✨",
-            "Reading & Writing Poems 📓"
-        ]
-    )
-    return profile
+```console
+curl https://www.kovacsbalinthunor.com/sh
 ```
 
 ## Tools and Badges
@@ -38,7 +23,7 @@ async def get_profile():
 <tr>
 <td>
 
-### Tools
+### Tools 🛠️
 
 | Category                   | Tools                                                                                                                                                                                                                        |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
