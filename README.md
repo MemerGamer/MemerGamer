@@ -133,5 +133,5 @@ curl https://www.kovacsbalinthunor.com/sh
 ## 🐱 Before you leave, here is a random cat
 
 <div align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDY5ZTJ2anQ5ZGxjc2F1eXpvdjZ6eXY0aXFscHk3M3JkNGQzbWtrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LWJ7cKyiWPCnVyuAhT/giphy.gif" alt="Random Cat" />
+    <img src="https://i.giphy.com/P8ef3Dkynk0xLx1h1T.webp" alt="Random Cat" />
 </div>
