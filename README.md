@@ -100,9 +100,6 @@ curl https://www.kovacsbalinthunor.com/sh
   <a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359" style="margin-right: 20px; text-decoration: none; font-weight: bold; color: #4285F4;">
     <p>View All Google Cloud Badges →</p>
   </a>
-  <a target="_blank" href="https://codeium.com/profile/memergamer" style="text-decoration: none; font-weight: bold; color: #8A2BE2;">
-    <p>View Codeium Profile →</p>
-  </a>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
@@ -115,9 +112,6 @@ curl https://www.kovacsbalinthunor.com/sh
   <a href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359/badges/2557008" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.qwiklabs.com/3lzfdnpwrMI1VXzUzD9l4CH9BwB4o59yK11xKdp2r08%3D" style="height: 150px; width: auto; max-width: 200px;" alt="Google Cloud Badge" />
   </a>
-  <a href="https://codeium.com/profile/memergamer" target="_blank" style="text-decoration: none;">
-    <img src="https://codeium.com/profile/memergamer/card.png" style="height: 150px; width: auto; max-width: 200px;" alt="Codeium Profile" />
-  </a>
 </div>
 
 
@@ -128,9 +122,6 @@ curl https://www.kovacsbalinthunor.com/sh
     <img src="https://komarev.com/ghpvc/?username=memergamer&color=blueviolet" alt="Profile views" />
 </p>
 
-| ![Hunor's GitHub stats](https://github-readme-stats.vercel.app/api?username=MemerGamer&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true) | ![Streak stats](https://streak-stats.demolab.com?user=MemerGamer&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MemerGamer&layout=compact&include_all_commits=true&theme=dracula&hide_border=true) |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=memergamer&theme=dracula&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
@@ -139,10 +130,8 @@ curl https://www.kovacsbalinthunor.com/sh
     <img src="https://github-contributor-stats.vercel.app/api?username=memergamer&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributor stats" />
 </p>
 
-<p>NOTE: Private repositories are not included in the statistics. This does not indicate my skill level or language proficiency. </p>
-
 ## 🐱 Before you leave, here is a random cat
 
 <div align="center">
-    <img src="https://c.tenor.com/KmPFMGQ07-4AAAAd/tenor.gif" alt="Random Cat" />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDY5ZTJ2anQ5ZGxjc2F1eXpvdjZ6eXY0aXFscHk3M3JkNGQzbWtrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LWJ7cKyiWPCnVyuAhT/giphy.gif" alt="Random Cat" />
 </div>
