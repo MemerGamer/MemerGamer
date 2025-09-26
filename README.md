@@ -103,14 +103,14 @@ curl https://www.kovacsbalinthunor.com/sh
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+  <a href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359/badges/18638600" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.qwiklabs.com/G0mnN9ObkfsoJhnxcsvpydokiWJPkwdNMNMO7UOi%2BYQ%3D" style="height: 150px; width: auto; max-width: 200px;" alt="Google Cloud Badge" />
+  </a>
   <a href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359/badges/9695900" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.qwiklabs.com/aO%2FQtiOBsw0z1zBaUvhw9Yh8N3ghk1lxwVYf5K1MNPU%3D" style="height: 150px; width: auto; max-width: 200px;" alt="Google Cloud Badge" />
   </a>
   <a href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359/badges/13265273" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.qwiklabs.com/%2FtTuLG7JDJIBJQv5NcPAhKHQj5968aKafxSg0fCTiXY%3D" style="height: 150px; width: auto; max-width: 200px;" alt="Google Cloud Badge" />
-  </a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359/badges/2557008" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.qwiklabs.com/3lzfdnpwrMI1VXzUzD9l4CH9BwB4o59yK11xKdp2r08%3D" style="height: 150px; width: auto; max-width: 200px;" alt="Google Cloud Badge" />
   </a>
 </div>
 
