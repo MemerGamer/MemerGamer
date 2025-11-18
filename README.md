@@ -7,9 +7,11 @@ Hi, my name is Kovács Bálint-Hunor, I'm a Software Engineering Student (MSc) a
 ## Want to find out more?
 
 ### More beginner friendly
+
 Open [https://www.kovacsbalinthunor.com](https://www.kovacsbalinthunor.com) in your preferred browser
 
 ### Advanced solution
+
 Try the command above in your terminal.
 It's not just a portfolio - it's an experience.
 
@@ -25,74 +27,30 @@ curl https://www.kovacsbalinthunor.com/sh
 
 ### 🛠️ Tech Stack
 
-<div>
-  <table>
-    <tr>
-      <th align="left">Category</th>
-      <th align="left">Tools</th>
-    </tr>
-    <tr>
-      <td><b>Frontend</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
-        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
-        <img src="https://skillicons.dev/icons?i=react" alt="React" />
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Backend</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-        <img src="https://skillicons.dev/icons?i=go" alt="Go" />
-        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Databases</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Operating Systems</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=arch" alt="Arch" />
-        <img src="https://skillicons.dev/icons?i=mint" alt="Mint" />
-        <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Development Environment</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=vim" alt="Vim" />
-        <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" />
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Currently Learning</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-        <img src="https://skillicons.dev/icons?i=go" alt="Go" />
-        <img src="https://skillicons.dev/icons?i=zig" alt="Zig" />
-        <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
-        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Interested In Learning</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
-        <img src="https://skillicons.dev/icons?i=bsd" alt="BSD" />
-        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" />
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vite,ts,react,tailwind" alt="Frontend" />
+  <span class="tech-separator" style="margin: 0 8px;">|</span>
+  <img src="https://skillicons.dev/icons?i=python,go,bash,nodejs" alt="Backend" />
+  <span class="tech-separator" style="margin: 0 8px;">|</span>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" alt="Databases" />
+  <span class="tech-separator" style="margin: 0 8px;">|</span>
+  <img src="https://skillicons.dev/icons?i=arch,mint,ubuntu" alt="Operating Systems" />
+  <span class="tech-separator" style="margin: 0 8px;">|</span>
+  <img src="https://skillicons.dev/icons?i=vim,neovim,vscode" alt="Development Environment" />
+  <span class="tech-separator" style="margin: 0 8px;">|</span>
+  <img src="https://skillicons.dev/icons?i=docker,go,zig,rust,gcp,kubernetes,bsd" alt="Currently Learning" />
 </div>
+
+<style>
+  .tech-separator {
+    color: #57606a;
+  }
+  @media (prefers-color-scheme: dark) {
+    .tech-separator {
+      color: #8b949e;
+    }
+  }
+</style>
 
 ### 🏆 Certifications & Badges
 
@@ -113,8 +71,6 @@ curl https://www.kovacsbalinthunor.com/sh
     <img src="https://cdn.qwiklabs.com/%2FtTuLG7JDJIBJQv5NcPAhKHQj5968aKafxSg0fCTiXY%3D" style="height: 150px; width: auto; max-width: 200px;" alt="Google Cloud Badge" />
   </a>
 </div>
-
-
 
 ## 📈 GitHub Stats
 
