@@ -45,6 +45,9 @@ curl https://www.kovacsbalinthunor.com/sh
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+  <a href="https://www.skills.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359/badges/18639211" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.qwiklabs.com/wDi2Xm%2F8G4L20ehasoaVEs%2F7VoTKH93XS0t2%2FgU7VOk%3D" style="height: 150px; width: auto; max-width: 200px;" alt="Google Cloud Badge" />
+  </a>
   <a href="https://www.cloudskillsboost.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359/badges/18638600" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.qwiklabs.com/G0mnN9ObkfsoJhnxcsvpydokiWJPkwdNMNMO7UOi%2BYQ%3D" style="height: 150px; width: auto; max-width: 200px;" alt="Google Cloud Badge" />
   </a>
