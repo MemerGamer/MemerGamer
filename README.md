@@ -29,28 +29,12 @@ curl https://www.kovacsbalinthunor.com/sh
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vite,ts,react,tailwind" alt="Frontend" />
-  <span class="tech-separator" style="margin: 0 8px;">|</span>
   <img src="https://skillicons.dev/icons?i=python,go,bash,nodejs" alt="Backend" />
-  <span class="tech-separator" style="margin: 0 8px;">|</span>
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" alt="Databases" />
-  <span class="tech-separator" style="margin: 0 8px;">|</span>
   <img src="https://skillicons.dev/icons?i=arch,mint,ubuntu" alt="Operating Systems" />
-  <span class="tech-separator" style="margin: 0 8px;">|</span>
   <img src="https://skillicons.dev/icons?i=vim,neovim,vscode" alt="Development Environment" />
-  <span class="tech-separator" style="margin: 0 8px;">|</span>
-  <img src="https://skillicons.dev/icons?i=docker,go,zig,rust,gcp,kubernetes,bsd" alt="Currently Learning" />
+  <img src="https://skillicons.dev/icons?i=go,zig,rust,gcp,docker,kubernetes,bsd" alt="Currently Learning" />
 </div>
-
-<style>
-  .tech-separator {
-    color: #57606a;
-  }
-  @media (prefers-color-scheme: dark) {
-    .tech-separator {
-      color: #8b949e;
-    }
-  }
-</style>
 
 ### 🏆 Certifications & Badges
 
