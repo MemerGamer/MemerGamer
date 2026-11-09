@@ -1,6 +1,8 @@
 # Hello!
 
-I'm Hunor, a Software Engineering Student (MSc) and a full-stack developer mostly working on complex web, or web realated projects. In my freetime I enjoy exploring various hobbies, including playing the guitar, gaming, and reading/writing poems.
+I'm Hunor, a full-stack developer and PhD student at the University of Debrecen (Doctoral School of Informatics), researching cryptographically verifiable DevSecOps: supply-chain security, signing, attestations and reproducible builds. I hold an MSc in Software Engineering from Sapientia Hungarian University of Transylvania.
+
+I build web apps, self-host a small fleet of services and ship open source. Outside of that: guitar, gaming, and reading & writing poems.
 
 ## Want to find out more?
 
