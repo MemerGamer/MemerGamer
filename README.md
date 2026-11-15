@@ -26,7 +26,7 @@ provisioned with Ansible and updated automatically with rollback.
 | [fetch-ke](https://forgejo.remote.kovacsbalinthunor.com/kbalinthunor/fetch-ke) | Minimal system information CLI for Bash and PowerShell |
 | [github-repo-visualization](https://forgejo.remote.kovacsbalinthunor.com/kbalinthunor/github-repo-visualization) | Repositories as a graph, linked by the languages they share |
 
-Most of my code lives on my own [Forgejo](https://forgejo.remote.kovacsbalinthunor.com/kbalinthunor) and is mirrored to [GitHub](https://github.com/MemerGamer); client work is at [kbalinthunor](https://github.com/kbalinthunor).
+Most of my code lives on my own [Forgejo](https://forgejo.remote.kovacsbalinthunor.com/kbalinthunor) and is mirrored to [GitHub](https://github.com/MemerGamer); my work account is [kbalinthunor](https://github.com/kbalinthunor).
 
 ### Elsewhere
 
