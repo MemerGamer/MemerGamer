@@ -1,5 +1,8 @@
 ## Kovács Bálint-Hunor
 
+**I build real software with AI agents.**
+AI agents · DevSecOps PhD researcher · Linux & self-hosting
+
 Full-stack developer and PhD student at the University of Debrecen (Doctoral School of Informatics).
 I build web products for clients and research how to make software delivery verifiable.
 
@@ -23,12 +26,16 @@ provisioned with Ansible and updated automatically with rollback.
 | [fetch-ke](https://forgejo.remote.kovacsbalinthunor.com/kbalinthunor/fetch-ke) | Minimal system information CLI for Bash and PowerShell |
 | [github-repo-visualization](https://forgejo.remote.kovacsbalinthunor.com/kbalinthunor/github-repo-visualization) | Repositories as a graph, linked by the languages they share |
 
-Most of my code lives on my own [Forgejo](https://forgejo.remote.kovacsbalinthunor.com/kbalinthunor) and is mirrored to [GitHub](https://github.com/MemerGamer).
+Most of my code lives on my own [Forgejo](https://forgejo.remote.kovacsbalinthunor.com/kbalinthunor) and is mirrored to [GitHub](https://github.com/MemerGamer); my work account is [kbalinthunor](https://github.com/kbalinthunor).
 
 ### Elsewhere
 
 [Website](https://www.kovacsbalinthunor.com) ·
 [Blog](https://www.kovacsbalinthunor.com/blog) ·
+[YouTube](https://www.youtube.com/@kovacsbalinthunor) ·
+[Instagram](https://www.instagram.com/hunorco.de/) ·
+[LinkedIn](https://www.linkedin.com/in/kovacsbalinthunor) ·
+[Medium](https://kovacsbalinthunor.medium.com/) ·
 [Google Cloud badges](https://www.skills.google/public_profiles/41d878a9-c5b9-44b6-a3cf-c7bb19bb5359) ·
 [contact@kovacsbalinthunor.com](mailto:contact@kovacsbalinthunor.com)
 
