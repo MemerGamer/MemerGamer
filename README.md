@@ -1,4 +1,4 @@
-## Hunor Kovács
+## Kovács Bálint-Hunor
 
 **I build real software with AI agents.**
 AI agents · DevSecOps PhD researcher · Linux & self-hosting
